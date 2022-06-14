@@ -1,0 +1,865 @@
+﻿form 
+{
+    padding-top: 5px;  
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+
+html
+{
+    margin: 0;
+	padding: 0;
+	border: 0px;
+	outline: 0;
+}
+
+
+h1
+{
+    padding:0;
+    margin:0;
+    font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+
+header
+{    
+    position: relative;       
+    background-color: #1A33F0;
+    font-family: sans-serif;
+    color:#ffffff;
+    height: 70px;
+    font-weight: normal;
+}
+
+
+.title
+{
+    position:absolute;
+    top:7px;    
+    left: 50px;
+}
+
+
+.prueba1
+{
+float: left;
+width: 30%;
+height: 400px;    
+}
+
+.listBoxBase {
+    font-family: Calibri;
+    font-size: 12px;
+}
+
+.lblBase
+{
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: Calibri;
+    font-size: 12px;
+    width: 346px
+}
+
+
+.txtBase
+{
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: Calibri;
+    font-size: 12px;
+ 	height:20px;
+ 	border: 1px solid #d4d4d4;
+}
+
+
+.txtBase_error
+{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+ 	height:16px;
+ 	border: 1px solid #d4d4d4;
+ 	outline:1px;
+ 	
+ 	background:#FFFFFF url(error1.png) no-repeat 4px 4px;
+	padding:4px 4px 4px 27px;
+}
+
+
+.txtBase:hover
+{
+    border: 1.5px solid #1A33F0;    
+}
+
+
+.txtBase:focus
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+.txtBase:active
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+
+.txtNumerico
+{
+    font-family: Arial;
+    font-size: 10px;
+ 	border: 1px solid #d4d4d4;
+}
+
+
+.txtNumerico:hover
+{
+    border: 1.5px solid #1A33F0;    
+}
+
+
+.txtNumerico:focus
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+.txtNumerico:active
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+
+.cmbBase
+{
+    font-family:Calibri;
+    font-size: 12px;
+ 	height:20px; 	
+	border: 1.5px solid #d4d4d4; 
+}
+
+
+.cmbBase:hover
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+.cmbBase:focus
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+.chkNase
+{
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+ 	height:20px; 	
+	border: 1.5px solid #d4d4d4;
+}
+
+
+.chkBase
+{
+     font-family: Calibri;
+    font-size: 12px;
+ 	height:20px; 	
+}
+.chkBase:hover
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;    
+}
+
+
+.chkBase:focus
+{
+    border: 1.5px solid #1A33F0; 
+    outline: none;
+}
+
+
+.MiPanel
+{
+    border: 1.7px solid #ababab;  
+   
+}
+
+
+.MiForm
+{
+    border: 1.7px solid #ababab;    
+    margin: 20px;
+    padding-left: 20px;
+    width: 700px;   
+    background: #ffffff; 
+}
+
+
+.nodeLevel1
+{
+    border: 1.7px solid #ababab; 
+}
+    
+    
+
+.CalendarioBase {
+    background-color: #ffffff;
+    width: 150px;
+    border:  1px solid #949494;
+    padding: 2px 2px 2px 2px;
+    font-size: 10px;
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    outline: 0px;
+
+    position: fixed; 
+    float: right; 
+    margin-top: 0; 
+    margin-right: -10x; 
+    margin-bottom: 5px; 
+    margin-left: 0px; 
+    
+}
+
+
+.CalendarioBase a {
+    text-decoration: none;
+}
+
+
+.CalendarioBase .TituloCalendarioBase {
+    font-weight: bold; 
+    font-size: 12px;
+    background-color: #1A33F0;
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    color:#ffffff;    
+    border:1px solid #1A33F0;
+}
+
+
+.IconoCalendario
+{
+      background:#FFFFFF url('~/calendar3.png') no-repeat 2px 2px;
+      width: 20px;
+      height: 20px;
+      border: 0px ;           
+}
+
+.CalendarioBase td.OtrosDiaCalendarioBase
+{
+    background-color: #FCFEFF;
+    font-size: 12px;
+
+}
+
+.CalendarioBase td.DiaCalendarioBase {
+    
+    background-color: #E4F1F5;
+    font-size: 12px;
+}
+
+.CalendarioBase .NextPrevCalendarioBase {
+    text-align: center;
+}
+
+.CalendarioBase td.SelectorDiaCalendarioBase {
+    background-color: #5FB2F5;
+}
+
+.CalendarioBase .DiaCalendarioBase a, 
+.CalendarioBase .SelectorDiaCalendarioBase a,
+.CalendarioBase .NextPrevCalendarioBase a {
+    display: block;
+    line-height: 15px;
+}
+
+.CalendarioBase .DiaCalendarioBase a:hover, 
+.CalendarioBase .SelectorDiaCalendarioBase a:hover {
+    background-color: #5FB2F5;
+}
+
+.CalendarioBase .NextPrevCalendarioBase a:hover {
+    background-color: #02101C;
+}
+
+
+
+.botonD
+{
+	border-width: 1px;
+	border-color: #790F0F;
+	border-style: solid;
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 11px;
+	background-color: #1A33F0;
+	font-weight: bold;
+    border-radius: 8px 8px;
+}
+
+.btnBase_Grabar
+{
+   width: 120px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background: #1A33F0 url('save.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff; 
+   border-radius: 8px 8px;
+}
+
+.btnBase_GrabarDisable
+{
+   width: 120px;
+   height: 40px;
+   border: 1px solid #055F99;
+   background:#1A33F0 url('save.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #B6BBBF; 
+   border-radius: 8px 8px;
+}
+
+.btnBase_Aceptar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('check.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+
+
+.btnBase_Atras
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('back.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Cancelar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('cancel.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+   
+}
+
+.btnBase_Cliente
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('client.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Consultar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('search.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+    margin-bottom: 0px;
+    border-radius: 8px 8px;
+}
+
+.btn_Consultar
+{
+   width: 90px;
+   height: 24px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('search1.png') no-repeat 2px 2px;
+   padding:4px 4px 4px 20px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   margin-bottom: 0px;
+   border-radius: 8px 8px;
+}
+
+
+
+.btnBase_Continuar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('next.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Editar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('edit.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Imprimir
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('print.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Nuevo
+{
+   width: 120px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('new.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Procesar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('calcular.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Agregar
+{
+   width: 120px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('add.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Quitar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('delete.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+.btnBase_Enviar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#ababab url('nodeA.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #000000;
+   border-radius: 8px 8px;
+}
+
+
+.btnBase_Comentar
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('Comentar.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+.btnBase_Salir
+{
+   width: 120px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('Salir.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+
+
+
+.btnBase_Reiniciar
+{
+   width: 20px;
+   height: 20px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('engranaje1.png') no-repeat 0px 0px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+
+
+
+/* Botones para listas*/
+.btnBase_AgregarItem
+{
+   width: 140px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('Right.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+.btnBase_AgregarItemTodos
+{
+   width: 140px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('RightAll.png') no-repeat 4px 4px;
+   padding:4px 0px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+.btnBase_QuitarItem
+{
+   width: 140px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('Left.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+.btnBase_QuitarItemTodos
+{
+   width: 140px;
+   height: 40px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('LeftAll.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+
+
+
+
+
+.btnBase_ProcesarCierre
+{
+   width: 160px;
+   height: 40px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('procesarCierre.png') no-repeat 4px 4px;
+   padding:4px 4px 4px 30px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff;
+   border-radius: 8px 8px;
+}
+
+
+
+
+
+
+
+
+.treeViewBase
+{
+   
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    color: #000000;
+ }
+ 
+ 
+ .treeNodeBase
+ {
+        background-color: #ffffff;
+        color: #000000;
+   
+        
+        font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+        font-size:10px;
+
+    }
+    
+    
+    .treeNodeSeleccionado
+    {
+      background-color: #5FB2F5;   
+    }
+        
+        
+        
+        
+        
+        
+        
+.rowStyle /*estilo de filas gridview*/
+{
+    background-color : White;
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+}
+
+.headerStyle /*estilo de cabecera gridview*/
+{
+    background-color : White;
+    font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align:center;
+    
+}
+
+.pagerStyle /*estilo de paginado gridview*/
+{
+    background-color : #1A33F0;
+    font-size: 12px;
+    color:#ffffff;
+     text-align:center;
+    }
+
+.pagerStyle a /*estilo de paginado gridview*/
+{
+    background-color : #1A33F0;
+    font-size: 12px;
+    color:#ffffff;
+     text-align:center;
+    }
+
+
+.alternateStyle /*estilo de columnas alternativas gridview*/
+{
+    font-family: 'Segoe UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    background-color : #fcece3;
+    font-size: 12px;
+}
+
+
+
+
+
+
+.pnlBase {
+    border: 1px solid gray;
+    border-radius: 8px 8px;
+}
+
+.pnlContenedor {
+    margin: 5px 0px;
+}
+    
+  
+
+
+
+
+.btnBase_AgregarHijoGridView
+{
+   width: 20px;
+   height: 20px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('anidado.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_EditarGridView
+{
+   width: 20px;
+   height: 20px;
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('editGrid.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_QuitarGridView
+{
+   width: 20px;
+   height: 20px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('deleteGrid.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+
+.btnBase_DownloadGridView
+{
+   width: 20px;
+   height: 20px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('DownloadGrid.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_DetallarGridView
+{
+   width: 20px;
+   height: 20px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('detalle.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_AsignarGridView
+{
+   width: 20px;
+   height: 20px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('derecha.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_QuitarGrid
+{
+   width: 20px;
+   height: 20px; 
+   border: 1px solid #1A33F0;
+   background:#1A33F0 url('izquierda.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+
+.Pregunta
+{
+    color:#1A33F0;
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight:bold;
+}
+
+
+
+.ABC
+{
+    position: absolute;
+	top:  100px; 
+  	left: 100px;	
+	
+ background: #2d2d2d;
+      border-radius: 20px;
+      height: 260px;
+      margin: auto;
+      opacity: 0.9;
+      width: 360px;
+      z-index: 100;   
+}
+
+
+.btnBase_AgregarMini
+{
+    width: 36px;
+   height: 36px;
+   border: 1px solid #ffffff;
+   background:url('agregar_mini.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+.btnBase_QuitarMini
+{
+    width: 36px;
+   height: 36px;
+   border: 1px solid #ffffff;
+   background: url('quitar_mini.png') no-repeat 0px 0px;
+   color: #ffffff;
+}
+
+
+.btnBase_Blanco
+{
+   border: 1px solid #1A33F0;
+   background: #1A33F0;
+   padding:4px 4px 4px 4px;
+   font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: #ffffff; 
+}

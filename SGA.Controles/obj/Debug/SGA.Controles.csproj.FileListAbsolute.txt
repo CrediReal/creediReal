@@ -1,0 +1,225 @@
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SolIntEls.GEN.Helper.dll
+C:\ALAN\WORK\PROYECTOS\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\EntityLayer.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+F:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+F:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+G:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+G:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+G:\PROYECTOS\SGC\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+D:\Herbert\credireal\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+D:\Herbert\credireal\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb

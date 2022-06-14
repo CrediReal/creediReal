@@ -1,0 +1,48 @@
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+F:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+E:\Back_D\ALAN\PROYECTOS\VOLVO\SOFTWARE\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\2. GESTION CREDITICIA\SistemaFinancieroWeb\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+G:\PROYECTOS\SGC\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+G:\PROYECTOS\SGC\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+G:\PROYECTOS\SGC\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+G:\PROYECTOS\SGC\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+G:\PROYECTOS\SGC\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+E:\Alan.Huanca\1. PROYECTOS\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+D:\recoveryalan\proyectos\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+D:\ahuanca\FAST\soft\37. CrediReal\app\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+D:\Herbert\credireal\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+D:\Herbert\credireal\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+D:\Herbert\credireal\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+D:\Herbert\credireal\de_predator\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
+D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.dll
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.pdb
+E:\ALAN\PROYECTOS\BRACKO\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.csprojResolveAssemblyReference.cache
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.pdb
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.dll
+E:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\bin\Debug\SolIntEls.GEN.Helper.pdb
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.csprojResolveAssemblyReference.cache
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.dll
+F:\Back_D\ALAN\PROYECTOS\LUAL SAC\APP\SGA\SolIntEls.GEN.Helper\obj\Debug\SolIntEls.GEN.Helper.pdb

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61302BBE-F154-468D-AC71-FA89CA8262E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGA.AccesoDatos</RootNamespace>
+    <AssemblyName>SGA.AccesoDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsADAhorro.cs" />
+    <Compile Include="clsADAlmacen.cs" />
+    <Compile Include="clsADAniosMeses.cs" />
+    <Compile Include="clsADBanco.cs" />
+    <Compile Include="clsADCatalogo.cs" />
+    <Compile Include="clsADClasificacion.cs" />
+    <Compile Include="clsADCliente.cs" />
+    <Compile Include="clsADConfiguracion.cs" />
+    <Compile Include="clsADCredito.cs" />
+    <Compile Include="clsADCronograma.cs" />
+    <Compile Include="clsADDescuento.cs" />
+    <Compile Include="clsADDocumento.cs" />
+    <Compile Include="clsADEvaluacion.cs" />
+    <Compile Include="clsADGrupo.cs" />
+    <Compile Include="clsADHojaRuta.cs" />
+    <Compile Include="clsADMarca.cs" />
+    <Compile Include="clsADMenu.cs" />
+    <Compile Include="clsADMeta.cs" />
+    <Compile Include="clsADModelo.cs" />
+    <Compile Include="clsADMoneda.cs" />
+    <Compile Include="clsADOficina.cs" />
+    <Compile Include="clsADPerfil.cs" />
+    <Compile Include="clsADProveedor.cs" />
+    <Compile Include="clsADSexo.cs" />
+    <Compile Include="clsADTipo.cs" />
+    <Compile Include="clsADTipoContacto.cs" />
+    <Compile Include="clsADTipoMeta.cs" />
+    <Compile Include="clsADUbigeo.cs" />
+    <Compile Include="clsADUsuario.cs" />
+    <Compile Include="clsADVenta.cs" />
+    <Compile Include="clsADViaje.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGA.ENTIDADES\SGA.ENTIDADES.csproj">
+      <Project>{88b3c9f4-9500-4e65-bc25-b1ebc17f936a}</Project>
+      <Name>SGA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGA.Utilitarios\SGA.Utilitarios.csproj">
+      <Project>{68e00d49-2ce9-46ed-9e88-f11d510c48bc}</Project>
+      <Name>SGA.Utilitarios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolIntEls.GEN.Helper\GEN.Helper.csproj">
+      <Project>{cef62441-3061-40c8-9023-cbac3f4b7d40}</Project>
+      <Name>GEN.Helper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

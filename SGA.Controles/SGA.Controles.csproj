@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A9A5418-FFFB-49D7-A6F6-173E0F0E79C5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGA.Controles</RootNamespace>
+    <AssemblyName>SGA.Controles</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BotonAceptar.cs" />
+    <Compile Include="BotonAgregar.cs" />
+    <Compile Include="BotonAgregarItem.cs" />
+    <Compile Include="BotonAgregarItemTodos.cs" />
+    <Compile Include="BotonAgregarMini.cs" />
+    <Compile Include="BotonAsignar.cs" />
+    <Compile Include="BotonAtras.cs" />
+    <Compile Include="BotonBorrar.cs" />
+    <Compile Include="BotonBuscar.cs" />
+    <Compile Include="BotonCancelar.cs" />
+    <Compile Include="BotonCliente.cs" />
+    <Compile Include="BotonConsultar.cs" />
+    <Compile Include="BotonContinuar.cs" />
+    <Compile Include="BotonEditar.cs" />
+    <Compile Include="BotonEnviar.cs" />
+    <Compile Include="BotonGrabar.cs" />
+    <Compile Include="BotonImprimir.cs" />
+    <Compile Include="BotonMiniAceptar.cs" />
+    <Compile Include="BotonNuevo.cs" />
+    <Compile Include="BotonProcesar.cs" />
+    <Compile Include="BotonProcesarCierre.cs" />
+    <Compile Include="BotonQuitar.cs" />
+    <Compile Include="BotonQuitarItem.cs" />
+    <Compile Include="BotonQuitarItemTodos.cs" />
+    <Compile Include="BotonQuitarMini.cs" />
+    <Compile Include="BotonSalir.cs" />
+    <Compile Include="CalendarioBase.cs" />
+    <Compile Include="CheckBoxBase.cs" />
+    <Compile Include="ComboBoxAnios.cs" />
+    <Compile Include="ComboBoxBase.cs" />
+    <Compile Include="ComboBoxBaseMarca.cs" />
+    <Compile Include="ComboBoxBaseSexo.cs" />
+    <Compile Include="ComboBoxClasificacion.cs" />
+    <Compile Include="ComboBoxDepartamento.cs" />
+    <Compile Include="ComboBoxDistrito.cs" />
+    <Compile Include="ComboBoxMeses.cs" />
+    <Compile Include="ComboBoxModelo.cs" />
+    <Compile Include="ComboBoxMoneda.cs" />
+    <Compile Include="ComboBoxOficina.cs" />
+    <Compile Include="ComboBoxProvincia.cs" />
+    <Compile Include="ComboBoxTipoContacto.cs" />
+    <Compile Include="ComboBoxTipoMeta.cs" />
+    <Compile Include="ComboBoxUsuario.cs" />
+    <Compile Include="conBuscaCliente.cs" />
+    <Compile Include="EmailTextBox.cs" />
+    <Compile Include="GridViewBase.cs" />
+    <Compile Include="LabelBase.cs" />
+    <Compile Include="ListBoxBase.cs" />
+    <Compile Include="MailLink.cs" />
+    <Compile Include="NumberBox.cs" />
+    <Compile Include="PanelBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBoxBase.cs" />
+    <Compile Include="TreeViewBase.cs" />
+    <Compile Include="UpDownControl.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGA.ENTIDADES\SGA.ENTIDADES.csproj">
+      <Project>{88b3c9f4-9500-4e65-bc25-b1ebc17f936a}</Project>
+      <Name>SGA.ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGA.LogicaNegocio\SGA.LogicaNegocio.csproj">
+      <Project>{d82d1a2e-4424-4312-88a3-7ce75014fe24}</Project>
+      <Name>SGA.LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
