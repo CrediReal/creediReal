@@ -8,6 +8,7 @@ using System.Web.UI.WebControls;
 using SGA.Utilitarios;
 using SGA.ENTIDADES;
 using SGA.LogicaNegocio;
+using Microsoft.Reporting.WebForms;
 
 namespace SGA.Presentacion.CLIENTES
 {
@@ -719,6 +720,7 @@ namespace SGA.Presentacion.CLIENTES
             this.BotonEditar1.Enabled = true;
             this.BotonCancelar1.Enabled = true;
             this.BotonGrabar1.Enabled = false;
+            this.BotonImprimir1.Enabled = true;
         }
 
         public void Buscar()
@@ -737,6 +739,7 @@ namespace SGA.Presentacion.CLIENTES
             //--Traer los datos del Cliente Buscado
             //========================================================================
             int nidCli = Convert.ToInt32(Session["idCliente"]);
+            pnidCli.Value = nidCli.ToString();
             CLI.CapaNegocio.clsCNRetDatosCliente RetTipCli = new CLI.CapaNegocio.clsCNRetDatosCliente();
             DataTable DatosTipCli = RetTipCli.ListarDatosCli(nidCli, "O");
             if (DatosTipCli.Rows[0]["idTipoPersona"].ToString() == "1")
@@ -845,6 +848,7 @@ namespace SGA.Presentacion.CLIENTES
 
             BotonConsultar1.Visible = false;
             BotonEditar1.Visible = false;
+            BotonImprimir1.Visible = false;
             BotonNuevo1.Visible = false;
             BotonGrabar1.Visible = false;
             BotonCancelar1.Visible = true;
@@ -865,6 +869,7 @@ namespace SGA.Presentacion.CLIENTES
             conBuscarCliente1.Visible = true;
             BotonConsultar1.Visible = true;
             BotonEditar1.Visible = false;
+            BotonImprimir1.Visible = false;
             BotonNuevo1.Visible = true;
             BotonGrabar1.Visible = false;
             BotonCancelar1.Visible = true;
@@ -879,6 +884,7 @@ namespace SGA.Presentacion.CLIENTES
             {
                 BotonEditar1.Visible = true;
                 BotonConsultar1.Visible = false;
+                BotonImprimir1.Visible = true;
             }
         }
 
@@ -1001,6 +1007,7 @@ namespace SGA.Presentacion.CLIENTES
             conBuscarCliente1.Habilitar(false);
             BotonConsultar1.Visible = false;
             BotonEditar1.Visible = false;
+            BotonImprimir1.Visible = false;
             BotonNuevo1.Visible = false;
             BotonGrabar1.Visible = true;
             BotonCancelar1.Visible = true;
@@ -1015,6 +1022,7 @@ namespace SGA.Presentacion.CLIENTES
             conBuscarCliente1.Visible = false;
             BotonConsultar1.Visible = false;
             BotonEditar1.Visible = false;
+            BotonImprimir1.Visible = false;
             BotonNuevo1.Visible = false;
             BotonGrabar1.Visible = true;
             BotonCancelar1.Visible = true;
@@ -1022,6 +1030,46 @@ namespace SGA.Presentacion.CLIENTES
             pnPerNatural.Visible = true;
             BotonGrabar1.Enabled = true;
             BotonCancelar1.Enabled = true;
+        }
+
+        protected void BotonImprimir1_Click(object sender, EventArgs e)
+        {
+
+            List<ReportParameter> ListaParametros = new List<ReportParameter>();
+            List<ReportDataSource> ListaDataSource = new List<ReportDataSource>();
+
+                     
+             string reportpath = "";
+
+             int idCli = Convert.ToInt32( pnidCli.Value);
+          
+
+             ListaDataSource.Add(new ReportDataSource("CLI_DatosCliente_reporte_sp", new SGA.LogicaNegocio.clsCNCredito().rptFichaSocio(idCli)));
+             ListaDataSource.Add(new ReportDataSource("Gen_ListaDirCli_Sp", new SGA.LogicaNegocio.clsCNCredito().rptFichaSocio_direccion(idCli)));
+
+            ListaParametros.Add(new ReportParameter("pnidCli", idCli.ToString(), false));
+
+            reportpath = "rptFichaSocio.rdlc";
+           
+
+            Session["ListaParametros"] = ListaParametros;
+            Session["ListaDataSource"] = ListaDataSource;
+            Session["lModal"] = true;
+
+            var cReporte = reportpath;
+
+            ScriptManager.RegisterStartupScript(Page, typeof(Page), "OpenWindow", "window.open('../frmGenReporte.aspx?cNomReporte=" + cReporte + "');", true);
+
+        }
+
+        protected void pnidCli_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void hIdCuenta_ValueChanged(object sender, EventArgs e)
+        {
+
         }      
     }
 }

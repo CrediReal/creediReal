@@ -73,7 +73,7 @@
                                                     
                          </table>
         </div>
-        <asp:HiddenField ID="hPerfil" runat="server" />
+        <asp:HiddenField ID="hPerfil" runat="server" OnValueChanged="hPerfil_ValueChanged" />
     </form>
 </body>
 </html>

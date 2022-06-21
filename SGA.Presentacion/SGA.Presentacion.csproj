@@ -6295,6 +6295,7 @@
     <EmbeddedResource Include="REPORTES\RptDetalleOperacionesAsesor.rdlc" />
     <EmbeddedResource Include="REPORTES\RptDetalleSaldo.rdlc" />
     <EmbeddedResource Include="REPORTES\rptEvaluacionConsumo.rdlc" />
+    <EmbeddedResource Include="REPORTES\rptFichaSocio.rdlc" />
     <EmbeddedResource Include="REPORTES\RptHabilitaciones.rdlc" />
     <EmbeddedResource Include="REPORTES\rptKardexPagoCre.rdlc" />
     <EmbeddedResource Include="REPORTES\rptLisCreCliVig.rdlc">

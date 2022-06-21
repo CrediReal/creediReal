@@ -93,5 +93,28 @@ namespace SGA.AccesoDatos
                 throw ex;
             }
         }
+        //todo  se creo clientes
+        public DataTable rptFichaSocio(int pnidCli)
+        {
+            try
+            {
+                return objEjeSp.EjecSP("CLI_DatosCliente_reporte_sp", pnidCli);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public DataTable rptFichaSocio_direccion(int pnidCli)
+        {
+            try
+            {
+                return objEjeSp.EjecSP("Gen_ListaDirCli_Sp", pnidCli);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

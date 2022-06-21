@@ -93,5 +93,29 @@ namespace SGA.LogicaNegocio
                 throw ex;
             }
         }
+        
+        //TODO : SE CREO RPT CLIENTE
+        public DataTable rptFichaSocio(int pnidCli)
+        {
+            try
+            {
+                return adcredito.rptFichaSocio(pnidCli);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public DataTable rptFichaSocio_direccion(int pnidCli)
+        {
+            try
+            {
+                return adcredito.rptFichaSocio_direccion(pnidCli);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

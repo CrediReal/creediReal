@@ -151,3 +151,14 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.AccesoDatos\bin\Debug\Helper.Conec
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.csprojResolveAssemblyReference.cache
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.dll
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.ENTIDADES.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.ENTIDADES.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\SGA.Utilitarios.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\bin\Debug\Helper.Conector.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.AccesoDatos\obj\Debug\SGA.AccesoDatos.pdb

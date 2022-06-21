@@ -28,8 +28,8 @@ namespace SGA.Presentacion.CREDITOS
             
             string reportpath = "";
 
-            ListaDataSource.Add(new ReportDataSource("dsConsolidado", new SGA.LogicaNegocio.clsCNCredito().rptConsolidado(dFecha)));
-            ListaParametros.Add(new ReportParameter("dFecha", dFecha.ToString("dd/MM/yyyy"), false));
+                ListaDataSource.Add(new ReportDataSource("dsConsolidado", new SGA.LogicaNegocio.clsCNCredito().rptConsolidado(dFecha)));
+                ListaParametros.Add(new ReportParameter("dFecha", dFecha.ToString("dd/MM/yyyy"), false));
             reportpath = "rptConsolidado.rdlc";
             
 

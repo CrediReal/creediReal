@@ -61,3 +61,8 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Utilitarios\bin\Debug\SGA.Utilitar
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.dll
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.pdb
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Utilitarios\bin\Debug\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Utilitarios\bin\Debug\SGA.Utilitarios.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Utilitarios\obj\Debug\SGA.Utilitarios.pdb

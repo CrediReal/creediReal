@@ -126,3 +126,32 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\2022\5.COPERATIVA\SGA\SGA.Presentacion\bin
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\2022\5.COPERATIVA\SGA\SGA.Presentacion\bin\SGA.AccesoDatos.pdb
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\2022\5.COPERATIVA\SGA\SGA.Presentacion\bin\Helper.Conector.pdb
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\2022\5.COPERATIVA\SGA\SGA.Presentacion\obj\Debug\SGA.Presentacion.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Presentacion.dll.config
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Presentacion.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Presentacion.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\CRE.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\CRE.CapaNegocio.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Controles.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.ENTIDADES.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.LogicaNegocio.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Controles.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.ENTIDADES.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.LogicaNegocio.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.Utilitarios.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\CRE.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\CRE.CapaNegocio.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\SGA.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\bin\Helper.Conector.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\obj\Debug\SGA.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\obj\Debug\SGA.Presentacion.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Presentacion\obj\Debug\SGA.Presentacion.pdb

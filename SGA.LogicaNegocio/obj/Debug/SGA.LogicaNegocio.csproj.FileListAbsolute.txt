@@ -193,3 +193,17 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.LogicaNegocio\bin\Debug\Helper.Con
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.csprojResolveAssemblyReference.cache
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.dll
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.LogicaNegocio.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.LogicaNegocio.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\CAJ.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.ENTIDADES.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.ENTIDADES.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\SGA.Utilitarios.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\bin\Debug\Helper.Conector.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.LogicaNegocio\obj\Debug\SGA.LogicaNegocio.pdb

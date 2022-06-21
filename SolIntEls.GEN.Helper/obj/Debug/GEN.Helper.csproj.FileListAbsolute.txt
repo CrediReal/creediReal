@@ -46,3 +46,8 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SolIntEls.GEN.Helper\bin\Debug\Helper.Conector.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SolIntEls.GEN.Helper\obj\Debug\GEN.Helper.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SolIntEls.GEN.Helper\obj\Debug\Helper.Conector.pdb

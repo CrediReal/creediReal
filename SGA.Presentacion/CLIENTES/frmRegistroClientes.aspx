@@ -57,9 +57,10 @@
                     <td ></td>
                     <td>
                         <br />
-                        <cc1:BotonConsultar ID="BotonConsultar1" runat="server" OnClick="BotonConsultar1_Click" />
-                        <asp:HiddenField ID="hIdCuenta" runat="server" />
+                        <cc1:BotonConsultar ID="BotonConsultar1" runat="server" OnClick="BotonConsultar1_Click" Text=" " />
+                        <asp:HiddenField ID="hIdCuenta" runat="server" OnValueChanged="hIdCuenta_ValueChanged" />
                         <asp:HiddenField ID="hcOperacion" runat="server" />
+                        <asp:HiddenField ID="pnidCli" runat="server" OnValueChanged="pnidCli_ValueChanged" />
                     </td>
                     <td></td>
                 </tr>
@@ -358,8 +359,10 @@
                     <td>
                         <br />
                         <cc1:BotonNuevo ID="BotonNuevo1" runat="server" OnClick="BotonNuevo1_Click" />
-&nbsp;<cc1:BotonEditar ID="BotonEditar1" runat="server" OnClick="BotonEditar1_Click" Visible="False" />
-&nbsp;<cc1:BotonGrabar ID="BotonGrabar1" runat="server" OnClick="BotonGrabar1_Click" Visible="False" />&nbsp;<cc1:BotonCancelar ID="BotonCancelar1" runat="server" OnClick="BotonCancelar1_Click" />
+                        &nbsp;<cc1:BotonEditar ID="BotonEditar1" runat="server" OnClick="BotonEditar1_Click" Visible="False" />
+                        &nbsp;<cc1:BotonGrabar ID="BotonGrabar1" runat="server" OnClick="BotonGrabar1_Click" Visible="False" />
+                        &nbsp;<cc1:BotonCancelar ID="BotonCancelar1" runat="server" OnClick="BotonCancelar1_Click" />
+                     &nbsp; <cc1:BotonImprimir ID="BotonImprimir1" runat="server" OnClick="BotonImprimir1_Click" Visible="False" />
                     </td>
                     <td></td>
                 </tr>

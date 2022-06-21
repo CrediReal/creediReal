@@ -223,3 +223,19 @@ D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\bin\Debug\Helper.Conecto
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
 D:\HERBERT\2020\PROYECTOS\1.CREDIREAL\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.Controles.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.Controles.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\CAJ.AccesoDatos.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\Helper.Conector.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.ENTIDADES.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.LogicaNegocio.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.AccesoDatos.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\SGA.Utilitarios.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\bin\Debug\Helper.Conector.pdb
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\obj\Debug\SGA.Controles.csprojResolveAssemblyReference.cache
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\obj\Debug\SGA.Controles.dll
+C:\Users\ASUS IN SEARCH\Downloads\SGA\SGA.Controles\obj\Debug\SGA.Controles.pdb

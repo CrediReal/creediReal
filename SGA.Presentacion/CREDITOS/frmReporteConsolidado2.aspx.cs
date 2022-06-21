@@ -146,5 +146,10 @@ namespace SGA.Presentacion.CREDITOS
                 throw;
             }
         }
+
+        protected void hPerfil_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
